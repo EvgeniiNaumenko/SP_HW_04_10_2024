@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "AKb0bUfXXt/F/K/sfCvwzPCIY19wwGJ4mA5f8wom5ZvsC/sbigeeUBry+owzKSQGml0e0vypJSSGK66ANOh/qA==",
+  "success": true,
+  "projectFilePath": "D:\\ЖЕНЯ\\Обучение\\ITStep\\ДЗ\\SistemProg\\SP_HW\\ConsoleApp1_04_10_2024\\ConsoleApp1_04_10_2024.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.codeanalysis.common\\4.11.0\\microsoft.codeanalysis.common.4.11.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.11.0\\microsoft.codeanalysis.csharp.4.11.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.codeanalysis.csharp.scripting\\4.11.0\\microsoft.codeanalysis.csharp.scripting.4.11.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.codeanalysis.scripting.common\\4.11.0\\microsoft.codeanalysis.scripting.common.4.11.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.collections.immutable\\8.0.0\\system.collections.immutable.8.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.reflection.metadata\\8.0.0\\system.reflection.metadata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
